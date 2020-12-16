@@ -97,18 +97,24 @@ Sheeps blood must be purchased fresh and used generally within 1 month. Avoid us
 ### Thiamphenicol (10 mg/mL)
 Dissolve 100 mg in 10 mL 50/50 water/ethanol. Store at -20 ˚C.
 
-### D-Cycloserine (250 µg/mL)
-
 ### Cefoxitin (8 mg/mL)
 Dissolve 80 mg cefoxitin (X) in 10 mL water. Filter sterilize with 0.45 µM filter, aliquot, and store at -20˚C.
 
-### Tetracycline
+### Tetracycline (50 mg/mL)
+Dissolve 100 mg tetracycline (Sigma 87128) in 2 mL Ethanol. Aliquot, and store at -20˚C.
 
-### Kanamycin
+### Kanamycin (50 mg/mL)
+Dissolve 100mg Kanamycin sulfate (Sigma 60615) in 2 mL water. Filter sterilize with 0.45 µM filter, aliquot, and store at -20˚C.
 
 ### Ampicillin (50 mg/mL)
+Dissolve 100 mg ampicillin (Sigma A9393) in 2 mL water. Filter sterilize with 0.45 µM filter, aliquot, and store at -20˚C.
 
-### Erythromycin
+### Chloramphenicol (20 mg/mL)
+Dissolve 60 mg chloramphenicol (Sigma C0378) in 3 mL Ethanol. Aliquot and store at -20˚C.
 
-### Chloramphenicol
+### Erythromycin (10 mg/mL)
+Dissolve 20 mg erythromycin (Sigma E5389) in 2mL Ethanol. Aliquot and store at -20˚C
+
+### D-Cycloserine (250 µg/mL)
+
 
