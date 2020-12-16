@@ -115,6 +115,6 @@ Dissolve 60 mg chloramphenicol (Sigma C0378) in 3 mL Ethanol. Aliquot and store 
 ### Erythromycin (10 mg/mL)
 Dissolve 20 mg erythromycin (Sigma E5389) in 2mL Ethanol. Aliquot and store at -20˚C
 
-### D-Cycloserine (250 µg/mL)
-
+### D-Cycloserine (25 mg/mL)
+Dissolve 250 mg d-cycloserine (Sigma C6880) in 10 ml water. Filter sterilize using a 0.45-µm filter. DO NOT STORE, MAKE FRESH!
 
