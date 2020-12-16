@@ -70,7 +70,7 @@
 
 ## Cycloserine-Cefoxitin Fructose Agar (CCFA)
 **Use:** Isolation and quantification of *C. difficile* spores.
-**Notes for use:** Consider a 30min ethanol shock before plating to prevent background growth of *Enterococcus*.
+**Notes for use:** Consider a 30min ethanol shock before plating to prevent background growth of *Enterococcus*. C. difficile will appear as yellow colonies with irregular shape and will fluoresce green under UV.
 
 ***
 
