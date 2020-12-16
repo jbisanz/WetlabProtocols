@@ -1,19 +1,50 @@
 # Bacterial Growth Media
 
-## BHI+
+## Brain Heart Infusion + Arginine (BHI+)
+**Use:** Routine growth of *E. lenta* and similar organisms.
 
-## BHI CHVR
+## Brain Heart Infusion + Cysteine + Hemin + Vitamin K + Resazurin (BHI CHVR)
+**Use:** Routine growth of many common human gut commensals.
 
-## BHI CHAVR
+## Brain Heart Infusion + Cysteine + Hemin + Arginine + Vitamin K + Resazurin (BHI CHAVR)
+**Use:** Routine growth of many common human gut commensals including Coriobacteriia.
 
-## mGAM
+## Modified Gifu Anaerobic Media (mGAM)
+**Use:** Routine growth of many common human gut commensals.
 
-## TSA+
 
-## FAA
+## Tryptic soy agar + sheeps blood + arginine (TSA+)
+**Use:** Routine growth of non-*Eggerthellaceae* Coriobacteriia.
 
-## BHIS
+## Fastidious Anaerobic Agar (FAA)
+**Use:** Routine growth of many common human gut commensals.
 
-## BHIS TCC
+## Breat Heart Infusion + Yeast Extract (BHIS)
+**Use:** Routine growth of *C. difficile*.
 
-## CCFA
+## Breat Heart Infusion + Yeast Extract + Thiamphenicol + D-Cycloserine + Cefoxitin (BHIS TCC)
+**Use:** Selection of *C. difficile* transconjugants carrying thiamphenicol/chloramphenicol resistance.
+
+## Cycloserine-Cefoxitin Fructose Agar (CCFA)
+**Use:** Isolation and quantification of *C. difficile* spores.
+**Notes for use:** Consider a 30min ethanol shock before plating to prevent background growth of *Enterococcus*.
+
+***
+
+## Stock solutions
+
+### Cysteine
+
+### Vitamin K
+
+### Hemin
+
+### Resazurin
+
+### Sheeps Blood
+
+### Thiamphenicol
+
+### D-Cycloserine
+
+### Cefoxitin
