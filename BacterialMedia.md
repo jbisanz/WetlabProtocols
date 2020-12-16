@@ -110,3 +110,5 @@ Dissolve 80 mg cefoxitin (X) in 10 mL water. Filter sterilize with 0.45 µM filt
 
 ### Erythromycin
 
+### Chloramphenicol
+
