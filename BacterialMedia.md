@@ -48,3 +48,11 @@
 ### D-Cycloserine
 
 ### Cefoxitin
+
+### Tetracycline
+
+### Kanamycin
+
+### Ampicillin
+
+### Erythromycin
