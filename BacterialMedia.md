@@ -121,7 +121,7 @@
 Dissolve 50 g L-arginine (Sigma A5006) in 500 mL water. Autoclave for 20min or 0.2 µM filter sterilize. Store at 4˚C.
 
 ### Cysteine (5% w/v)
-Dissolve 2.25g (Sigma 168149) in 5mL water. Filter-sterilize (0.2µM) and store at RT to prevent crashing out.
+Dissolve 2.5g (Sigma 168149) in 50mL water. Filter-sterilize (0.2µM) and store at RT to prevent crashing out.
 
 ### Vitamin K (1 mg/mL)
 Dissolve 50mg vitamin k3 (menadione; Sigma M5625) in 50mL 100% ethanol. Store at 4˚C protected from light.
