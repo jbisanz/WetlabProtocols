@@ -64,6 +64,7 @@
 
 ## Breat Heart Infusion + Yeast Extract (BHIS)
 **Use:** Routine growth of *C. difficile*.
+
 **Instructions:** Mix water, BHI, Agar (if solid media desired), yeast extract, and autoclave on liquid 20 cycle. Cool and add cysteine.
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
@@ -76,6 +77,7 @@
 
 ## Breat Heart Infusion + Yeast Extract + Thiamphenicol + D-Cycloserine + Cefoxitin (BHIS TCC)
 **Use:** Selection of *C. difficile* transconjugants carrying thiamphenicol/chloramphenicol resistance.
+
 **Instructions:** Mix water, BHI, Agar, and autoclave on liquid 20 cycle. Cool and add cysteine, thiamphenicol, D-cycloserine and cefoxitin.
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
@@ -88,12 +90,28 @@
 | Cefoxitin | 400 uL | Fisher AAJ66800MD | 8 mg/mL | 8 ug/mL |
 | D-cycloserine | 4 mL | Sigma C6880 | 25 mg/mL | 250 ug/mL |
 
-
-
-
-## Cycloserine-Cefoxitin Fructose Agar (CCFA)
+## Taurocholate-Cycloserine-Cefoxitin Fructose Agar (TCCFA)
 **Use:** Isolation and quantification of *C. difficile* spores.
+
 **Notes for use:** Consider a 30min ethanol shock before plating to prevent background growth of *Enterococcus*. C. difficile will appear as yellow colonies with irregular shape and will fluoresce green under UV.
+
+**Instructions:** Mix water, peptone, agar, sodium phosphate, potassium phosphate, sodium chloride, magnesium sulfate, and fructose and autoclave. After cooling add neutral red (optional), sodium taurocholate d-cycloserine, and cefoxitin.
+
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 400 mL | - | - | - | - |
+| Proteose peptone #2 | 16 g | Fisher 212120 | - | 40 g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Na2HPO4 | 2 g | Fisher S373 | - | 5 g/L |
+| KH2PO4 | 0.4 g | Fisher BP362 | - | 1 g/L |
+| NaCl | 0.8 g | Fisher S27 | - | 2 g/L |
+| MgSO4 (anhydrous) | 40mg | Fisher M65 | - | 0.1 g/L |
+| Fructose | 2.5 g | Fisher L96 | - | 6 g/L |
+| Neutral Red | 12 mg | Sigma N7005 | - | 30 mg/L |
+| Sodium Taurocholate | 4 mL | Sigma T4009 | 10% w/v | 0.1% w/v |
+| D-cycloserine | 4 mL | Sigma C6880 | 25 mg/mL | 250 ug/mL |
+| Cefoxitin | 800 uL | Fisher AAJ66800MD | 8 mg/mL | 16 ug/mL |
+
 
 ***
 
@@ -140,4 +158,7 @@ Dissolve 20 mg erythromycin (Sigma E5389) in 2mL Ethanol. Aliquot and store at -
 
 ### D-Cycloserine (25 mg/mL)
 Dissolve 100 mg d-cycloserine (Sigma C6880) in 4 ml water. Filter sterilize using a 0.45-µm filter. DO NOT STORE, MAKE FRESH!
+
+### Sodium Taurocholate (10% w/v)
+Dissolve 100 mg in 1 mL water.  Filter sterilize using a 0.45-µm filter and freeze for storage. 
 
