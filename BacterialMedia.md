@@ -7,7 +7,7 @@
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
-| Water | Up to 400 mL | - | - | - | - |
+| Water | Up to 360 mL | - | - | - | - |
 | BHI | 14.8 g | BD 237500 | - | 37g/L |
 | Agar | 6 g | Sigma A5306 | - | 15 g/L |
 | Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
@@ -42,8 +42,8 @@
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
-| Water | Up to 400 mL | - | - | - | - |
-| BHI | 14.8 g | BD 237500 | - | 37g/L |
+| Water | Up to 360 mL | - | - | - | - |
+| BHI | 14.8 g | BD 237500 | - | 37 g/L |
 | Agar | 6 g | Sigma A5306 | - | 15 g/L |
 | Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
 | Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
@@ -55,12 +55,31 @@
 ## Modified Gifu Anaerobic Media (mGAM)
 **Use:** Routine growth of many common human gut commensals.
 
+**Instructions:** Mix Water, BHI, and agar (if solid media is desired) and autoclave on 20 minute liquid cycle. Cool media in 55˚C waterbath and add Arginine, Hemin and Vitamin K3. Add Resazurin if desired.
+
+**Notes:** The precise recipes vary a little for this formulation and it now commercially available as Hyserve 05433. Essentially the difference is that many ingredients are 2x diluted and arginine, vitamin K, hemin are added. This version just supplements the GAM available from HiMedia.
+
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 360 mL | - | - | - | - |
+| Gifu Anaerobic Broth | 23.6 g | HiMedia M1801 | - | 59 g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
+| Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
+| Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
 
 ## Tryptic soy agar + sheeps blood + arginine (TSA+)
-**Use:** Routine growth of non-*Eggerthellaceae* Coriobacteriia.
+**Use:** Routine growth of non-*Eggerthellaceae* Coriobacteriia. Not preferable due to use of blood but can help with some of the more difficult to grow strains out of the freezer.
 
-## Fastidious Anaerobic Agar (FAA)
-**Use:** Routine growth of many common human gut commensals.
+**Instructions:** Mix Water, TSA and autoclave on 20 minute liquid cycle. Cool media in 55˚C waterbath and add Arginine, and sheeps blood. **Note: it is crucial to cool the media to prevent hemolysis of blood.**
+
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 360 mL | - | - | - | - |
+| Tryptic soy broth | 12 g | Millipore 1.05459.0500 | - | 30 g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Sheeps blood | 20 mL | Fisher R54013 | - | 5% w/v |
+| Arginine | 20mL | Sigma A5006 | 100 g/L | 5 g/L (0.5%w/v) |
 
 ## Breat Heart Infusion + Yeast Extract (BHIS)
 **Use:** Routine growth of *C. difficile*.
