@@ -7,10 +7,10 @@
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
-|Water|Up to 400mL|-|-|-|-|
-|BHI|14.8 g|BD X|-|37g/L|
-|Agar|6 g|BD X|-|15g/L|
-|Arginine|40mL|Sigma A5006|100g/L|10g/L (1%w/v)|
+| Water | Up to 400 mL | - | - | - | - |
+| BHI | 14.8 g | BD 237500 | - | 37g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
 
 
 
@@ -23,10 +23,10 @@
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
-| Water | Up to 400mL |-|-|-|-|
-| BHI | 14.8 g | BD X |-| 37g/L |
-| Agar | 6 g | BD X |-| 15g/L |
-| Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
+| Water | Up to 400 mL | - | - | - | - |
+| BHI | 14.8 g | BD 237500 | - | 37g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v |
 | Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
 | Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
 | Resazurin | 1.6 mL | Sigma R7017 |0.025% w/v | 0.0001% w/v |
@@ -42,13 +42,13 @@
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
-| Water | Up to 400mL |-|-|-|-|
-| BHI | 14.8 g | BD X |-| 37g/L |
-| Agar | 6 g | BD X |-| 15g/L |
+| Water | Up to 400 mL | - | - | - | - |
+| BHI | 14.8 g | BD 237500 | - | 37g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
 | Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
 | Hemin | 500 µL | Sigma 51280 | 1 mg/mL | 1 µg/mL |
 | Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
-| Resazurin | 1.6 mL | Sigma R7017 |0.025% w/v | 0.0001% w/v |
+| Resazurin | 1.6 mL | Sigma R7017 | 0.025% w/v | 0.0001% w/v |
 | Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
 
 
@@ -64,9 +64,32 @@
 
 ## Breat Heart Infusion + Yeast Extract (BHIS)
 **Use:** Routine growth of *C. difficile*.
+**Instructions:** Mix water, BHI, Agar (if solid media desired), yeast extract, and autoclave on liquid 20 cycle. Cool and add cysteine.
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 400 mL | - | - | - | - |
+| BHI | 14.8 g | BD 237500 | - | 37g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Yeast Extract | 2 g | Fisher BP9727 |-| 5 g/L |
+| Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
+
 
 ## Breat Heart Infusion + Yeast Extract + Thiamphenicol + D-Cycloserine + Cefoxitin (BHIS TCC)
 **Use:** Selection of *C. difficile* transconjugants carrying thiamphenicol/chloramphenicol resistance.
+**Instructions:** Mix water, BHI, Agar, and autoclave on liquid 20 cycle. Cool and add cysteine, thiamphenicol, D-cycloserine and cefoxitin.
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 400 mL | - | - | - | - |
+| BHI | 14.8 g | BD 237500 | - | 37g/L |
+| Agar | 6 g | Sigma A5306 | - | 15 g/L |
+| Yeast Extract | 2 g | Fisher BP9727 |-| 5 g/L |
+| Cysteine | 4 mL | Sigma 168149 | 5% w/v | 0.05% w/v|
+| Thiamphenicol | 400 uL | Sigma T0261 | 10 mg/mL | 10 ug/mL |
+| Cefoxitin | 400 uL | Fisher AAJ66800MD | 8 mg/mL | 8 ug/mL |
+| D-cycloserine | 4 mL | Sigma C6880 | 25 mg/mL | 250 ug/mL |
+
+
+
 
 ## Cycloserine-Cefoxitin Fructose Agar (CCFA)
 **Use:** Isolation and quantification of *C. difficile* spores.
@@ -95,10 +118,10 @@ Dissolve 25 mg resazurin (Sigma R7017) in 100 mL water and filter sterilize with
 Sheeps blood must be purchased fresh and used generally within 1 month. Avoid use unless necessary.
 
 ### Thiamphenicol (10 mg/mL)
-Dissolve 100 mg in 10 mL 50/50 water/ethanol. Store at -20 ˚C.
+Dissolve 100 mg (Sigma T0261) in 10 mL 50/50 water/ethanol. Store at -20 ˚C.
 
 ### Cefoxitin (8 mg/mL)
-Dissolve 80 mg cefoxitin (X) in 10 mL water. Filter sterilize with 0.45 µM filter, aliquot, and store at -20˚C.
+Dissolve 80 mg cefoxitin (Fisher AAJ66800MD) in 10 mL water. Filter sterilize with 0.45 µM filter, aliquot, and store at -20˚C.
 
 ### Tetracycline (50 mg/mL)
 Dissolve 100 mg tetracycline (Sigma 87128) in 2 mL Ethanol. Aliquot, and store at -20˚C.
@@ -116,5 +139,5 @@ Dissolve 60 mg chloramphenicol (Sigma C0378) in 3 mL Ethanol. Aliquot and store 
 Dissolve 20 mg erythromycin (Sigma E5389) in 2mL Ethanol. Aliquot and store at -20˚C
 
 ### D-Cycloserine (25 mg/mL)
-Dissolve 250 mg d-cycloserine (Sigma C6880) in 10 ml water. Filter sterilize using a 0.45-µm filter. DO NOT STORE, MAKE FRESH!
+Dissolve 100 mg d-cycloserine (Sigma C6880) in 4 ml water. Filter sterilize using a 0.45-µm filter. DO NOT STORE, MAKE FRESH!
 
