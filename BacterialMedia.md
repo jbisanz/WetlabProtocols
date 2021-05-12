@@ -78,7 +78,7 @@
 | Water | Up to 360 mL | - | - | - | - |
 | Tryptic soy broth | 12 g | Millipore 1.05459.0500 | - | 30 g/L |
 | Agar | 6 g | Sigma A5306 | - | 15 g/L |
-| Sheeps blood | 20 mL | Fisher R54013 | - | 5% w/v |
+| Sheeps blood | 20 mL | Fisher 50863756 | - | 5% w/v |
 | Arginine | 20mL | Sigma A5006 | 100 g/L | 5 g/L (0.5%w/v) |
 
 ## Breat Heart Infusion + Yeast Extract (BHIS)
