@@ -75,9 +75,9 @@
 
 |Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
 |----------|----------------|--------------------|-------------------|-------------------|
-| Water | Up to 380 mL | - | - | - | - |
+| Water | Up to 372 mL | - | - | - | - |
 | Fastidious Anaerobe Agar | 18.4 g | Fisher 50-201-5192 | - | 46 g/L |
-| Sheeps blood | 20 mL | Fisher 50863756 | - | 5% w/v |
+| Sheeps blood | 28 mL | Fisher 50863756 | - | 7% w/v |
 
 ## Tryptic soy agar + sheeps blood + arginine (TSA+)
 **Use:** Routine growth of non-*Eggerthellaceae* Coriobacteriia. Not preferable due to use of blood but can help with some of the more difficult to grow strains out of the freezer.
