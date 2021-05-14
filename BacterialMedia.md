@@ -68,6 +68,17 @@
 | Vitamin K3 | 500 µL | Sigma M5625 | 5 mg/mL | 5 µg/mL |
 | Arginine | 40mL | Sigma A5006 | 100 g/L | 10 g/L (1%w/v) |
 
+## Fastidious Anaerobe Agar (FAA)
+**Use:** Routine growth of gut anaerobes. Not preferable as it needs blood.
+
+**Instructions:** Mix Water, FAA and autoclave on 20 minute liquid cycle. Cool media in 55˚C waterbath and sheeps blood. **Note: it is crucial to cool the media to prevent hemolysis of blood.**
+
+|Ingredient|Volume or Weight|Ordering Information|Stock Concentration|Final Concentration|
+|----------|----------------|--------------------|-------------------|-------------------|
+| Water | Up to 380 mL | - | - | - | - |
+| Fastidious Anaerobe Agar | 18.4 g | Fisher 50-201-5192 | - | 46 g/L |
+| Sheeps blood | 20 mL | Fisher 50863756 | - | 5% w/v |
+
 ## Tryptic soy agar + sheeps blood + arginine (TSA+)
 **Use:** Routine growth of non-*Eggerthellaceae* Coriobacteriia. Not preferable due to use of blood but can help with some of the more difficult to grow strains out of the freezer.
 
